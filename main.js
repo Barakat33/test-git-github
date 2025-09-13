@@ -9,3 +9,5 @@ function sub(a, b) {
 function mul(a, b) {
     return a * b;
 }
+
+console.log(sum(5, 3)); // Outputs: 8
